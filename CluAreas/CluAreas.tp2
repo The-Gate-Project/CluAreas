@@ -77,7 +77,7 @@ ELSE ACTION_IF (GAME_IS ~BG2EE~) BEGIN
 	PRINT ~CheatsAreas pour BG2EE~
 END
 ELSE ACTION_IF (GAME_IS ~IWDEE~) BEGIN
-    INCLUDE ~CluAreas/Lua/IWDEE/MapsFrIWDEE.tph~ // CheatsAreas pour BG2EE
+    INCLUDE ~CluAreas/Lua/IWDEE/MapsFrIWDEE.tph~ // CheatsAreas pour IWDEE
 	PRINT ~CheatsAreas pour IWDEE~
 END
 

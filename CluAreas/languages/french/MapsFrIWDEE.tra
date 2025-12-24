@@ -11,184 +11,184 @@
 // CheatsAreas pour Icewind Dale EE
 	
 @3134 = ~{"AR1000", "        HAVREDEST,  (Prologue)"},~
-@3135 = ~{"AR1001", "(H)  Temple de Tempus (Prologue)"},~                                      
-@3136 = ~{"AR1002", "(H)  Maison 1 (Prologue)"},~                                              
-@3137 = ~{"AR1003", "(H)  Maison 2 (Prologue)"},~                                              
-@3138 = ~{"AR1004", "(H)  Maison de Hrothgar (Prologue)"},~                                    
-@3139 = ~{"AR1005", "(H)  Maison de Gaspar (Prologue)"},~                                      
-@3140 = ~{"AR1006", "(H)  Taverne du Berceau de l'hiver (Prologue)"},~                         
-@3141 = ~{"AR1007", "(H)  Comptoir de Pomab L1 (Prologue)"},~                                  
-@3142 = ~{"AR1008", "(H)  Auberge des Congères (Prologue)"},~                                  
-@3143 = ~{"AR1009", "(H)  Maison du vieux Jed (Prologue)"},~                                   
-@3144 = ~{"AR1010", "(H)  Maison d'Apsel (Prologue)"},~                                        
-@3145 = ~{"AR1011", "(H)  Entrepôt de Gaspar  (Prologue)"},~                                   
-@3146 = ~{"AR1012", "(H)  Maison 3 (Prologue)"},~                                              
-@3147 = ~{"AR1013", "(H)  Maison 4 (Prologue)"},~                                              
-@3148 = ~{"AR1014", "(H)  Maison 5 (Prologue)"},~                                              
-@3149 = ~{"AR1015", "(H)  Cellier du Berceau de l'hiver (Prologue)"},~                         
-@3150 = ~{"AR1016", "(H)  Comptoir de Pomab L2 (Prologue)"},~                                  
-@3151 = ~{"AR1100", "        HAVREDEST,  (Fin)"},~                                                            
-@3152 = ~{"AR1101", "(H)  Temple de Tempus L1 (Fin)"},~                                        
-@3153 = ~{"AR1102", "(H)  Temple de Tempus L2, Dortoir (Fin)"},~                               
-@3154 = ~{"AR1103", "(H)  Temple de Tempus L3, Pomab (Fin)"},~                                 
-@3155 = ~{"AR1104", "(H)  Temple de Tempus L4, Miroir (Fin)"},~                                
-@3156 = ~{"AR1105", "(H)  Temple de Tempus L5, Pierre de Jerrod (Fin)"},~                      
-@3157 = ~{"AR1106", "(H)  Taverne du Berceau de l'hiver (Fin)"},~                              
-@3158 = ~{"AR1109", "(H)  Cellier du Berceau de l'hiver (Fin)"},~                              
-@3159 = ~{"AR1200", "(H)  Caravane disparue (Prologue)"},~                                     
-@3160 = ~{"AR1201", "(H)  Grotte des orques (Prologue)"},~                                     
-@3161 = ~{"AR2000", "    Le Col de Kuldahar"},~                                                          
-@3162 = ~{"AR2001", "(Ck)  Passe des gobelins"},~                                       
-@3163 = ~{"AR2002", "(Ck)  Grotte des scarabées"},~                                     
-@3164 = ~{"AR2003", "(Ck)  Tour en ruine"},~                                            
-@3165 = ~{"AR2004", "(Ck)  Moulin en ruine"},~                                          
-@3166 = ~{"AR2005", "(Ck)  Moulin en ruine, Sous-sol"},~                                 
-@3167 = ~{"AR2006", "(Ck)  Moulin en ruine, Silo"},~                                     
-@3168 = ~{"AR2100", "        KULDAHAR"},~                                                                    
-@3169 = ~{"AR2101", "(K)  Tour d'Orrick le Gris L1"},~                                          
-@3170 = ~{"AR2102", "(K)  Tour d'Orrick le Gris L2"},~                                          
-@3171 = ~{"AR2103", "(K)  Forge de Coulon"},~                                                   
-@3172 = ~{"AR2104", "(K)  Maison 1"},~                                                          
-@3173 = ~{"AR2105", "(K)  Maison 2"},~                                                          
-@3174 = ~{"AR2106", "(K)  Maison 3"},~                                                          
-@3175 = ~{"AR2107", "(K)  Temple d'Ilmater"},~                                                  
-@3176 = ~{"AR2108", "(K)  Vaisseau d'Oswald"},~                                                 
-@3177 = ~{"AR2109", "(K)  Maison de Hjollder"},~                                                
-@3178 = ~{"AR2110", "(K)  Maison de Urnst"},~                                                   
-@3179 = ~{"AR2111", "(K)  Taverne la Cave aux Racines"},~                                       
-@3180 = ~{"AR2112", "(K)  Maison d'Arundel L1"},~                                               
-@3181 = ~{"AR2113", "(K)  Boutique de Gerth"},~                                                 
-@3182 = ~{"AR2114", "(K)  Auberge de l'Ombre du Soir L1"},~                                     
-@3183 = ~{"AR2115", "(K)  Auberge de l'Ombre du Soir L2"},~                                     
-@3184 = ~{"AR2116", "(K)  Maison d'Arundel L2"},~                                               
-@3185 = ~{"AR3000", "    La Vallée des Ombres"},~                                                        
-@3186 = ~{"AR3001", "(Vo)  Grotte des yetis"},~                                       
-@3187 = ~{"AR3101", "(Vo)  Crypte 1"},~                                               
-@3188 = ~{"AR3201", "(Vo)  Crypte 2"},~                                               
-@3189 = ~{"AR3301", "(Vo)  Crypte de Myrkul"},~                                       
-@3190 = ~{"AR3401", "(Vo)  Crypte 3"},~                                               
-@3191 = ~{"AR3501", "(Vo)  Tombe de Kresselack, L1"},~                                 
-@3192 = ~{"AR3502", "(Vo)  Tombe de Kresselack, L2"},~                                 
-@3193 = ~{"AR3503", "(Vo)  Tombe de Kresselack, L3"},~                                 
-@3194 = ~{"AR3600", "  Temple du Dieu Oublié"},~                                                       
-@3195 = ~{"AR3601", "  Temple du Dieu Oublié, L1"},~                                                   
-@3196 = ~{"AR3602", "  Temple du Dieu Oublié, L2"},~                                                   
-@3197 = ~{"AR3603", "  Temple du Dieu Oublié, L3"},~                                                   
-@3198 = ~{"AR4000", "    l'Œil du Dragon"},~                                                             
-@3199 = ~{"AR4001", "(Od)  Roi Lézard, L1"},~                                              
-@3200 = ~{"AR4002", "(Od)  Adeptes de Talona, L2"},~                                       
-@3201 = ~{"AR4003", "(Od)  Présio, L3"},~                                                  
-@3202 = ~{"AR4004", "(Od)  Le Grand Ritualiste, L4"},~                                     
-@3203 = ~{"AR4005", "(Od)  Yxunomei, L5"},~                                                
-@3204 = ~{"AR5000", "    La Main Tranchée"},~                                                            
-@3205 = ~{"AR5001", "(Mt)  Grande Tour, L1"},~                                             
-@3206 = ~{"AR5002", "(Mt)  Grande Tour, L2"},~                                             
-@3207 = ~{"AR5003", "(Mt)  Grande Tour, L3"},~                                             
-@3208 = ~{"AR5004", "(Mt)  Grande Tour, L4"},~                                             
-@3209 = ~{"AR5101", "(Mt)  Tour de Labelas, Ruine L4"},~                                   
-@3210 = ~{"AR5102", "(Mt)  Tour de Labelas, Bibliothèque l2"},~                            
-@3211 = ~{"AR5103", "(Mt)  Tour de Labelas, Astrolabe, L3"},~                              
-@3212 = ~{"AR5104", "(Mt)  Tour de Labelas, Pont vers Shevarash L1"},~                     
-@3213 = ~{"AR5201", "(Mt)  Tour de Solonor, Dénaïni L1"},~                                 
-@3214 = ~{"AR5202", "(Mt)  Tour de Solonor, L2"},~                                         
-@3215 = ~{"AR5203", "(Mt)  Tour de Solonor, L3"},~                                         
-@3216 = ~{"AR5204", "(Mt)  Tour de Solonor, L4"},~                                         
-@3217 = ~{"AR5301", "(Mt)  Tour de Corellon, L1"},~                                        
-@3218 = ~{"AR5302", "(Mt)  Tour de Corellon, L2"},~                                        
-@3219 = ~{"AR5303", "(Mt)  Tour de Corellon, L3"},~                                        
-@3220 = ~{"AR5304", "(Mt)  Tour de Corellon, Arboretum L4"},~                              
-@3221 = ~{"AR5401", "(Mt)  Tour de Shevarash, Kaylessa L1"},~                              
-@3222 = ~{"AR5402", "(Mt)  Tour de Shevarash, L2"},~                                       
-@3223 = ~{"AR5403", "(Mt)  Tour de Shevarash, Pont vers Labelas L3"},~                     
-@3224 = ~{"AR5404", "(Mt)  Tour de Shevarash, Sommet L4"},~                                
-@3225 = ~{"AR5502", "(Mt)  Pont, Labelas / Sheverash,"},~                                  
-@3226 = ~{"AR6000", "    Profondorn"},~                                                                  
-@3227 = ~{"AR6001", "(P)  Caverne L1"},~                                                      
-@3228 = ~{"AR6002", "(P)  Entrée L2"},~                                                       
-@3229 = ~{"AR6003", "(P)  Labyrinthe (Saablic Tan, Krilag)(L2)"},~                            
-@3230 = ~{"AR6004", "(P)  Forge de Moradin inerte (Norlinor)(L3)"},~                          
-@3231 = ~{"AR6005", "(P)  Tombeaux L3"},~                                                     
-@3232 = ~{"AR6006", "(P)  Hall des Héros L4"},~                                               
-@3233 = ~{"AR6007", "(P)  Grotte des ettins (L1)"},~                                          
-@3234 = ~{"AR6008", "(P)  Grotte des orogs (L1)"},~                                           
-@3235 = ~{"AR6009", "(P)  Grotte des orques (L1)"},~                                          
-@3236 = ~{"AR6010", "(P)  Salle des runes / Escalier (L2)"},~                                 
-@3237 = ~{"AR6011", "(P)  Engrenages de l'escalier (L3)"},~                                   
-@3238 = ~{"AR6013", "(P)  Forge de Moradin active (Norlinor)(L3)"},~                          
-@3239 = ~{"AR6014", "(P)  Tour de Bandoth (L1)"},~                                            
-@3240 = ~{"AR7000", "  Passe de la Dent du Dragon"},~                                                  
-@3241 = ~{"AR7001", "(Dd)  Musée"},~                                                       
-@3242 = ~{"AR7002", "(Dd)  Vers le Sous-sol du musée"},~                                   
-@3243 = ~{"AR7003", "(Dd)  Sous-sol du musée (Gareth)"},~                                  
-@3244 = ~{"AR7004", "(Dd)  Caverne des géants du froid"},~                                 
-@3245 = ~{"AR7005", "    Glacier de la Dent du Dragon"},~                                                
-@3246 = ~{"AR8001", "    Le Bas Profondorn, Durdel Anatha L1"},~                                         
-@3247 = ~{"AR8002", "(Bp)  Escalier de la tour (L1)"},~                                 
-@3248 = ~{"AR8003", "(Bp)  Oubliette (Tarnelm)"},~                                      
-@3249 = ~{"AR8004", "(Bp)  Camp des Svirfneblins libres (Nym)"},~                       
-@3250 = ~{"AR8005", "(Bp)  Jardins du palais (L1)"},~                                   
-@3251 = ~{"AR8006", "(Bp)  Quartier des soldats L2, (Ginafae)"},~                       
-@3252 = ~{"AR8007", "(Bp)  Salle du trône L3, (Marketh)"},~                             
-@3253 = ~{"AR8008", "(Bp)  Mines (Guello, Shikata)"},~                                  
-@3254 = ~{"AR8009", "(Bp)  Quartier des Artisans (L1)"},~                               
-@3255 = ~{"AR8010", "(Bp)  Repaire de Malavon (L1)"},~                                  
-@3256 = ~{"AR8011", "(Bp)  La grande forge (Ilmadia)"},~                                
-@3257 = ~{"AR8012", "(Bp)  Temple d'Ilmater"},~                                         
-@3258 = ~{"AR8013", "(Bp)  Révéré Frère Poquelin"},~                              
-@3259 = ~{"AR8014", "(Bp)  Tour de guet (L1)"},~                                        
-@3260 = ~{"AR8015", "(Bp)  Atelier de Norl (L1)"},~                                     
-@3261 = ~{"AR8016", "(Bp)  Maison du camp des Svirfneblins libres"}~                   
+@3135 = ~{"AR1001", "(H)  Temple de Tempus (Prologue)"},~
+@3136 = ~{"AR1002", "(H)  Maison 1 (Prologue)"},~
+@3137 = ~{"AR1003", "(H)  Maison 2 (Prologue)"},~
+@3138 = ~{"AR1004", "(H)  Maison de Hrothgar (Prologue)"},~
+@3139 = ~{"AR1005", "(H)  Maison de Gaspar (Prologue)"},~
+@3140 = ~{"AR1006", "(H)  Taverne du Berceau de l'hiver (Prologue)"},~
+@3141 = ~{"AR1007", "(H)  Comptoir de Pomab L1 (Prologue)"},~
+@3142 = ~{"AR1008", "(H)  Auberge des Congères (Prologue)"},~
+@3143 = ~{"AR1009", "(H)  Maison du vieux Jed (Prologue)"},~
+@3144 = ~{"AR1010", "(H)  Maison d'Apsel (Prologue)"},~
+@3145 = ~{"AR1011", "(H)  Entrepôt de Gaspar  (Prologue)"},~
+@3146 = ~{"AR1012", "(H)  Maison 3 (Prologue)"},~
+@3147 = ~{"AR1013", "(H)  Maison 4 (Prologue)"},~
+@3148 = ~{"AR1014", "(H)  Maison 5 (Prologue)"},~
+@3149 = ~{"AR1015", "(H)  Cellier du Berceau de l'hiver (Prologue)"},~
+@3150 = ~{"AR1016", "(H)  Comptoir de Pomab L2 (Prologue)"},~
+@3151 = ~{"AR1100", "        HAVREDEST,  (Fin)"},~
+@3152 = ~{"AR1101", "(H)  Temple de Tempus L1 (Fin)"},~
+@3153 = ~{"AR1102", "(H)  Temple de Tempus L2, Dortoir (Fin)"},~
+@3154 = ~{"AR1103", "(H)  Temple de Tempus L3, Pomab (Fin)"},~
+@3155 = ~{"AR1104", "(H)  Temple de Tempus L4, Miroir (Fin)"},~
+@3156 = ~{"AR1105", "(H)  Temple de Tempus L5, Pierre de Jerrod (Fin)"},~
+@3157 = ~{"AR1106", "(H)  Taverne du Berceau de l'hiver (Fin)"},~
+@3158 = ~{"AR1109", "(H)  Cellier du Berceau de l'hiver (Fin)"},~
+@3159 = ~{"AR1200", "(H)  Caravane disparue (Prologue)"},~
+@3160 = ~{"AR1201", "(H)  Grotte des orques (Prologue)"},~
+@3161 = ~{"AR2000", "    Le Col de Kuldahar"},~
+@3162 = ~{"AR2001", "(Ck)  Passe des gobelins"},~
+@3163 = ~{"AR2002", "(Ck)  Grotte des scarabées"},~
+@3164 = ~{"AR2003", "(Ck)  Tour en ruine"},~
+@3165 = ~{"AR2004", "(Ck)  Moulin en ruine"},~
+@3166 = ~{"AR2005", "(Ck)  Moulin en ruine, Sous-sol"},~
+@3167 = ~{"AR2006", "(Ck)  Moulin en ruine, Silo"},~
+@3168 = ~{"AR2100", "        KULDAHAR"},~
+@3169 = ~{"AR2101", "(K)  Tour d'Orrick le Gris L1"},~
+@3170 = ~{"AR2102", "(K)  Tour d'Orrick le Gris L2"},~
+@3171 = ~{"AR2103", "(K)  Forge de Coulon"},~
+@3172 = ~{"AR2104", "(K)  Maison 1"},~
+@3173 = ~{"AR2105", "(K)  Maison 2"},~
+@3174 = ~{"AR2106", "(K)  Maison 3"},~
+@3175 = ~{"AR2107", "(K)  Temple d'Ilmater"},~
+@3176 = ~{"AR2108", "(K)  Vaisseau d'Oswald"},~
+@3177 = ~{"AR2109", "(K)  Maison de Hjollder"},~
+@3178 = ~{"AR2110", "(K)  Maison de Urnst"},~
+@3179 = ~{"AR2111", "(K)  Taverne la Cave aux Racines"},~
+@3180 = ~{"AR2112", "(K)  Maison d'Arundel L1"},~
+@3181 = ~{"AR2113", "(K)  Boutique de Gerth"},~
+@3182 = ~{"AR2114", "(K)  Auberge de l'Ombre du Soir L1"},~
+@3183 = ~{"AR2115", "(K)  Auberge de l'Ombre du Soir L2"},~
+@3184 = ~{"AR2116", "(K)  Maison d'Arundel L2"},~
+@3185 = ~{"AR3000", "    La Vallée des Ombres"},~
+@3186 = ~{"AR3001", "(Vo)  Grotte des yetis"},~
+@3187 = ~{"AR3101", "(Vo)  Crypte 1"},~
+@3188 = ~{"AR3201", "(Vo)  Crypte 2"},~
+@3189 = ~{"AR3301", "(Vo)  Crypte de Myrkul"},~
+@3190 = ~{"AR3401", "(Vo)  Crypte 3"},~
+@3191 = ~{"AR3501", "(Vo)  Tombe de Kresselack, L1"},~
+@3192 = ~{"AR3502", "(Vo)  Tombe de Kresselack, L2"},~
+@3193 = ~{"AR3503", "(Vo)  Tombe de Kresselack, L3"},~
+@3194 = ~{"AR3600", "  Temple du Dieu Oublié"},~
+@3195 = ~{"AR3601", "  Temple du Dieu Oublié, L1"},~
+@3196 = ~{"AR3602", "  Temple du Dieu Oublié, L2"},~
+@3197 = ~{"AR3603", "  Temple du Dieu Oublié, L3"},~
+@3198 = ~{"AR4000", "    l'Œil du Dragon"},~
+@3199 = ~{"AR4001", "(Od)  Roi Lézard, L1"},~
+@3200 = ~{"AR4002", "(Od)  Adeptes de Talona, L2"},~
+@3201 = ~{"AR4003", "(Od)  Présio, L3"},~
+@3202 = ~{"AR4004", "(Od)  Le Grand Ritualiste, L4"},~
+@3203 = ~{"AR4005", "(Od)  Yxunomei, L5"},~
+@3204 = ~{"AR5000", "    La Main Tranchée"},~
+@3205 = ~{"AR5001", "(Mt)  Grande Tour, L1"},~
+@3206 = ~{"AR5002", "(Mt)  Grande Tour, L2"},~
+@3207 = ~{"AR5003", "(Mt)  Grande Tour, L3"},~
+@3208 = ~{"AR5004", "(Mt)  Grande Tour, L4"},~
+@3209 = ~{"AR5101", "(Mt)  Tour de Labelas, Ruine L4"},~
+@3210 = ~{"AR5102", "(Mt)  Tour de Labelas, Bibliothèque l2"},~
+@3211 = ~{"AR5103", "(Mt)  Tour de Labelas, Astrolabe, L3"},~
+@3212 = ~{"AR5104", "(Mt)  Tour de Labelas, Pont vers Shevarash L1"},~
+@3213 = ~{"AR5201", "(Mt)  Tour de Solonor, Dénaïni L1"},~
+@3214 = ~{"AR5202", "(Mt)  Tour de Solonor, L2"},~
+@3215 = ~{"AR5203", "(Mt)  Tour de Solonor, L3"},~
+@3216 = ~{"AR5204", "(Mt)  Tour de Solonor, L4"},~
+@3217 = ~{"AR5301", "(Mt)  Tour de Corellon, L1"},~
+@3218 = ~{"AR5302", "(Mt)  Tour de Corellon, L2"},~
+@3219 = ~{"AR5303", "(Mt)  Tour de Corellon, L3"},~
+@3220 = ~{"AR5304", "(Mt)  Tour de Corellon, Arboretum L4"},~
+@3221 = ~{"AR5401", "(Mt)  Tour de Shevarash, Kaylessa L1"},~
+@3222 = ~{"AR5402", "(Mt)  Tour de Shevarash, L2"},~
+@3223 = ~{"AR5403", "(Mt)  Tour de Shevarash, Pont vers Labelas L3"},~
+@3224 = ~{"AR5404", "(Mt)  Tour de Shevarash, Sommet L4"},~
+@3225 = ~{"AR5502", "(Mt)  Pont, Labelas / Sheverash,"},~
+@3226 = ~{"AR6000", "    Profondorn"},~
+@3227 = ~{"AR6001", "(P)  Caverne L1"},~
+@3228 = ~{"AR6002", "(P)  Entrée L2"},~
+@3229 = ~{"AR6003", "(P)  Labyrinthe (Saablic Tan, Krilag)(L2)"},~
+@3230 = ~{"AR6004", "(P)  Forge de Moradin inerte (Norlinor)(L3)"},~
+@3231 = ~{"AR6005", "(P)  Tombeaux L3"},~
+@3232 = ~{"AR6006", "(P)  Hall des Héros L4"},~
+@3233 = ~{"AR6007", "(P)  Grotte des ettins (L1)"},~
+@3234 = ~{"AR6008", "(P)  Grotte des orogs (L1)"},~
+@3235 = ~{"AR6009", "(P)  Grotte des orques (L1)"},~
+@3236 = ~{"AR6010", "(P)  Salle des runes / Escalier (L2)"},~
+@3237 = ~{"AR6011", "(P)  Engrenages de l'escalier (L3)"},~
+@3238 = ~{"AR6013", "(P)  Forge de Moradin active (Norlinor)(L3)"},~
+@3239 = ~{"AR6014", "(P)  Tour de Bandoth (L1)"},~
+@3240 = ~{"AR7000", "  Passe de la Dent du Dragon"},~
+@3241 = ~{"AR7001", "(Dd)  Musée"},~
+@3242 = ~{"AR7002", "(Dd)  Vers le Sous-sol du musée"},~
+@3243 = ~{"AR7003", "(Dd)  Sous-sol du musée (Gareth)"},~
+@3244 = ~{"AR7004", "(Dd)  Caverne des géants du froid"},~
+@3245 = ~{"AR7005", "    Glacier de la Dent du Dragon"},~
+@3246 = ~{"AR8001", "    Le Bas Profondorn, Durdel Anatha L1"},~
+@3247 = ~{"AR8002", "(Bp)  Escalier de la tour (L1)"},~
+@3248 = ~{"AR8003", "(Bp)  Oubliette (Tarnelm)"},~
+@3249 = ~{"AR8004", "(Bp)  Camp des Svirfneblins libres (Nym)"},~
+@3250 = ~{"AR8005", "(Bp)  Jardins du palais (L1)"},~
+@3251 = ~{"AR8006", "(Bp)  Quartier des soldats L2, (Ginafae)"},~
+@3252 = ~{"AR8007", "(Bp)  Salle du trône L3, (Marketh)"},~
+@3253 = ~{"AR8008", "(Bp)  Mines (Guello, Shikata)"},~
+@3254 = ~{"AR8009", "(Bp)  Quartier des Artisans (L1)"},~
+@3255 = ~{"AR8010", "(Bp)  Repaire de Malavon (L1)"},~
+@3256 = ~{"AR8011", "(Bp)  La grande forge (Ilmadia)"},~
+@3257 = ~{"AR8012", "(Bp)  Temple d'Ilmater"},~
+@3258 = ~{"AR8013", "(Bp)  Révéré Frère Poquelin"},~
+@3259 = ~{"AR8014", "(Bp)  Tour de guet (L1)"},~
+@3260 = ~{"AR8015", "(Bp)  Atelier de Norl (L1)"},~
+@3261 = ~{"AR8016", "(Bp)  Maison du camp des Svirfneblins libres"}~
 	
 	// CheatsAreas pour Heart of Winter                   
 	
-@3262 = ~{"AR9100", "(HoW)  Le Bois Isolé"},~                                                                     
-@3263 = ~{"AR9101", "(HoW)  Auberge du Gibet Siffleur, L1 (Le Bois Isolé)"},~                          
-@3264 = ~{"AR9102", "(HoW)  Auberge du Gibet Siffleur, L2 (Le Bois Isolé)"},~                          
-@3265 = ~{"AR9103", "(HoW)  Temple de Waukyne, (Le Bois Isolé)"},~                          
-@3266 = ~{"AR9104", "(HoW)  Maison d'Emmerich, (Le Bois Isolé)"},~                          
-@3267 = ~{"AR9105", "(HoW)  Maison de la famille Dunn, (Le Bois Isolé)"},~                          
-@3268 = ~{"AR9106", "(HoW)  Maison des Thurlow, L1 (Le Bois Isolé)"},~                          
-@3269 = ~{"AR9107", "(HoW)  Maison des Thurlow, L2 (Le Bois Isolé)"},~                          
-@3270 = ~{"AR9108", "(HoW)  Maison de Dolan, (Le Bois Isolé)"},~                          
-@3271 = ~{"AR9109", "(HoW)  Maison de Thom Farold, (Le Bois Isolé)"},~                          
-@3272 = ~{"AR9110", "(HoW)  Maison de Purvis, (Le Bois Isolé)"},~                          
-@3273 = ~{"AR9200", "(HoW)  Camp des barbares"},~                          
-@3274 = ~{"AR9201", "(HoW)  Hall hydromel, (Camp des barbares)"},~                          
-@3275 = ~{"AR9300", "(HoW)  Île aux tertres"},~                          
-@3276 = ~{"AR9301", "(HoW)  Tour d'Édion, (Île aux tertres)"},~                          
-@3277 = ~{"AR9400", "(HoW)  Tertres, (Île aux tertres)"},~                          
-@3278 = ~{"AR9500", "(HoW)  Morneglace"},~                          
-@3279 = ~{"AR9501", "(HoW)  Grotte de la Voyante, L1 Tiernon (Morneglace)"},~                          
-@3280 = ~{"AR9502", "(HoW)  Grotte de la Voyante, L2 (Morneglace)"},~                          
-@3281 = ~{"AR9600", "(HoW)  Mer des Glaces Mouvantes"},~                          
-@3282 = ~{"AR9601", "(HoW)  Glacier, L1 (Mer des Glaces Mouvantes)"},~                          
-@3283 = ~{"AR9602", "(HoW)  Champ des Ossements, L2 (Mer des Glaces Mouvantes)"},~                          
-@3284 = ~{"AR9603", "(HoW)  Temple Sahuagins, L3 (Mer des Glaces Mouvantes)"},~                          
-@3285 = ~{"AR9604", "(HoW)  Tanière d'Icasaracht, L4 (Mer des Glaces Mouvantes)"},~                          
+@3262 = ~{"AR9100", "(HoW)  Le Bois Isolé"},~
+@3263 = ~{"AR9101", "(HoW)  Auberge du Gibet Siffleur, L1 (Le Bois Isolé)"},~
+@3264 = ~{"AR9102", "(HoW)  Auberge du Gibet Siffleur, L2 (Le Bois Isolé)"},~
+@3265 = ~{"AR9103", "(HoW)  Temple de Waukyne, (Le Bois Isolé)"},~
+@3266 = ~{"AR9104", "(HoW)  Maison d'Emmerich, (Le Bois Isolé)"},~
+@3267 = ~{"AR9105", "(HoW)  Maison de la famille Dunn, (Le Bois Isolé)"},~
+@3268 = ~{"AR9106", "(HoW)  Maison des Thurlow, L1 (Le Bois Isolé)"},~
+@3269 = ~{"AR9107", "(HoW)  Maison des Thurlow, L2 (Le Bois Isolé)"},~
+@3270 = ~{"AR9108", "(HoW)  Maison de Dolan, (Le Bois Isolé)"},~
+@3271 = ~{"AR9109", "(HoW)  Maison de Thom Farold, (Le Bois Isolé)"},~
+@3272 = ~{"AR9110", "(HoW)  Maison de Purvis, (Le Bois Isolé)"},~
+@3273 = ~{"AR9200", "(HoW)  Camp des barbares"},~
+@3274 = ~{"AR9201", "(HoW)  Hall hydromel, (Camp des barbares)"},~
+@3275 = ~{"AR9300", "(HoW)  Île aux tertres"},~
+@3276 = ~{"AR9301", "(HoW)  Tour d'Édion, (Île aux tertres)"},~
+@3277 = ~{"AR9400", "(HoW)  Tertres, (Île aux tertres)"},~
+@3278 = ~{"AR9500", "(HoW)  Morneglace"},~
+@3279 = ~{"AR9501", "(HoW)  Grotte de la Voyante, L1 Tiernon (Morneglace)"},~
+@3280 = ~{"AR9502", "(HoW)  Grotte de la Voyante, L2 (Morneglace)"},~
+@3281 = ~{"AR9600", "(HoW)  Mer des Glaces Mouvantes"},~
+@3282 = ~{"AR9601", "(HoW)  Glacier, L1 (Mer des Glaces Mouvantes)"},~
+@3283 = ~{"AR9602", "(HoW)  Champ des Ossements, L2 (Mer des Glaces Mouvantes)"},~
+@3284 = ~{"AR9603", "(HoW)  Temple Sahuagins, L3 (Mer des Glaces Mouvantes)"},~
+@3285 = ~{"AR9604", "(HoW)  Tanière d'Icasaracht, L4 (Mer des Glaces Mouvantes)"},~
 	
 	// CheatsAreas pour Trials of the Luremaster                  
 	
-@3286 = ~{"AR9700", "(TotL)  Forteresse de Maluradek (Commencement)"},~                                           
-@3287 = ~{"AR9701", "(TotL)  Tour Sud, Sous-sol (Prouver votre sagacité)"},~                                 
-@3288 = ~{"AR9702", "(TotL)  Tour Sud, (Matrone Wiverne)"},~                                                 
-@3289 = ~{"AR9703", "(TotL)  Tour Ouest, Sous-sol (Prouver votre vaillance)"},~                              
-@3290 = ~{"AR9704", "(TotL)  Tour Ouest, (Harald)"},~                                                        
-@3291 = ~{"AR9705", "(TotL)  Tour Nord, Sous-sol (Prouver votre courage)"},~                                 
-@3292 = ~{"AR9706", "(TotL)  Tour Nord, (Reine Harpie)"},~                                                   
-@3293 = ~{"AR9707", "(TotL)  Tour Est, Sous-sol (Prouver votre persévérance)"},~                             
-@3294 = ~{"AR9708", "(TotL)  Tour Est, (Crieck de Baine)"},~                                                 
-@3295 = ~{"AR9709", "(TotL)  Muraille Ouest"},~                                                              
-@3296 = ~{"AR9710", "(TotL)  Muraille Est"},~                                                                
-@3297 = ~{"AR9711", "(TotL)  Cour intérieure"},~                                                             
-@3298 = ~{"AR9712", "(TotL)  Cour supérieur"},~                                                              
-@3299 = ~{"AR9713", "(TotL)  Ruine du temple de Heaum"},~                                                    
-@3300 = ~{"AR9714", "(TotL)  Tombe de la Sentinelle"},~                                                      
-@3301 = ~{"AR9715", "(TotL)  Planque de Hobart Piévelu"},~                                                   
-@3302 = ~{"AR9716", "(TotL)  Donjon L1"},~                                                                   
-@3303 = ~{"AR9717", "(TotL)  Donjon L2"},~                                                                   
-@3304 = ~{"AR9718", "(TotL)  Donjon L3"},~                                                                   
-@3305 = ~{"AR9800", "(TotL)  Cavernes du Clan Chacal, L1"},~                                                 
-@3306 = ~{"AR9801", "(TotL)  Cavernes du Clan Chacal, L2"}~                                                 
+@3286 = ~{"AR9700", "(TotL)  Forteresse de Maluradek (Commencement)"},~
+@3287 = ~{"AR9701", "(TotL)  Tour Sud, Sous-sol (Prouver votre sagacité)"},~
+@3288 = ~{"AR9702", "(TotL)  Tour Sud, (Matrone Wiverne)"},~
+@3289 = ~{"AR9703", "(TotL)  Tour Ouest, Sous-sol (Prouver votre vaillance)"},~
+@3290 = ~{"AR9704", "(TotL)  Tour Ouest, (Harald)"},~
+@3291 = ~{"AR9705", "(TotL)  Tour Nord, Sous-sol (Prouver votre courage)"},~
+@3292 = ~{"AR9706", "(TotL)  Tour Nord, (Reine Harpie)"},~
+@3293 = ~{"AR9707", "(TotL)  Tour Est, Sous-sol (Prouver votre persévérance)"},~
+@3294 = ~{"AR9708", "(TotL)  Tour Est, (Crieck de Baine)"},~
+@3295 = ~{"AR9709", "(TotL)  Muraille Ouest"},~
+@3296 = ~{"AR9710", "(TotL)  Muraille Est"},~
+@3297 = ~{"AR9711", "(TotL)  Cour intérieure"},~
+@3298 = ~{"AR9712", "(TotL)  Cour supérieur"},~
+@3299 = ~{"AR9713", "(TotL)  Ruine du temple de Heaum"},~
+@3300 = ~{"AR9714", "(TotL)  Tombe de la Sentinelle"},~
+@3301 = ~{"AR9715", "(TotL)  Planque de Hobart Piévelu"},~
+@3302 = ~{"AR9716", "(TotL)  Donjon L1"},~
+@3303 = ~{"AR9717", "(TotL)  Donjon L2"},~
+@3304 = ~{"AR9718", "(TotL)  Donjon L3"},~
+@3305 = ~{"AR9800", "(TotL)  Cavernes du Clan Chacal, L1"},~
+@3306 = ~{"AR9801", "(TotL)  Cavernes du Clan Chacal, L2"}~
 
 	// CheatsAreas pour Icewind Dale EE ALL
 
@@ -198,119 +198,54 @@
 @3308 = ~{"  ", "        HEART OF WINTER        "},
 	{"AR9100", "(HoW)  Le Bois Isolé"},~
 	
-@3309 = ~{"  ", "        TRIALS OF THE LUREMASTER        "},         
-	{"AR9700", "(TotLM) Forteresse de Maluradek (Commencement)"},~ 
+@3309 = ~{"  ", "        TRIALS OF THE LUREMASTER        "},
+	{"AR9700", "(TotLM) Forteresse de Maluradek (Commencement)"},~
 
 @3310 = ~{"AR8016", "(Bp)  Maison du camp des Svirfneblins libres"},
 	{"  ", "        HEART OF WINTER        "},
-	{"AR9100", "(HoW)  Le Bois Isolé"},                                      
-	{"AR9101", "(HoW)  Auberge du Gibet Siffleur, L1 (Le Bois Isolé)"},       
-	{"AR9102", "(HoW)  Auberge du Gibet Siffleur, L2 (Le Bois Isolé)"},       
-	{"AR9103", "(HoW)  Temple de Waukyne, (Le Bois Isolé)"},                  
-	{"AR9104", "(HoW)  Maison d'Emmerich, (Le Bois Isolé)"},                  
-	{"AR9105", "(HoW)  Maison de la famille Dunn, (Le Bois Isolé)"},          
-	{"AR9106", "(HoW)  Maison des Thurlow, L1 (Le Bois Isolé)"},              
-	{"AR9107", "(HoW)  Maison des Thurlow, L2 (Le Bois Isolé)"},              
-	{"AR9108", "(HoW)  Maison de Dolan, (Le Bois Isolé)"},                    
-	{"AR9109", "(HoW)  Maison de Thom Farold, (Le Bois Isolé)"},              
-	{"AR9110", "(HoW)  Maison de Purvis, (Le Bois Isolé)"},                   
-	{"AR9200", "(HoW)  Camp des barbares"},                          
-	{"AR9201", "(HoW)  Hall hydromel, (Camp des barbares)"},                  
-	{"AR9300", "(HoW)  Île aux tertres"},                          
-	{"AR9301", "(HoW)  Tour d'Édion, (Île aux tertres)"},                     
-	{"AR9400", "(HoW)  Tertres, (Île aux tertres)"},                          
-	{"AR9500", "(HoW)  Morneglace"},                          
-	{"AR9501", "(HoW)  Grotte de la Voyante, L1 Tiernon (Morneglace)"},       
-	{"AR9502", "(HoW)  Grotte de la Voyante, L2 (Morneglace)"},               
-	{"AR9600", "(HoW)  Mer des Glaces Mouvantes"},                          
-	{"AR9601", "(HoW)  Glacier, L1 (Mer des Glaces Mouvantes)"},              
-	{"AR9602", "(HoW)  Champ des Ossements, L2 (Mer des Glaces Mouvantes)"},  
-	{"AR9603", "(HoW)  Temple Sahuagins, L3 (Mer des Glaces Mouvantes)"},     
-	{"AR9604", "(HoW)  Tanière d'Icasaracht, L4 (Mer des Glaces Mouvantes)"}, 
-	{"  ", "        TRIALS OF THE LUREMASTER        "},         
-	{"AR9700", "(TotL)  Forteresse de Maluradek (Commencement)"},           
-	{"AR9701", "(TotL)  Tour Sud, Sous-sol (Prouver votre sagacité)"},      
-	{"AR9702", "(TotL)  Tour Sud, (Matrone Wiverne)"},                      
-	{"AR9703", "(TotL)  Tour Ouest, Sous-sol (Prouver votre vaillance)"},   
-	{"AR9704", "(TotL)  Tour Ouest, (Harald)"},                             
-	{"AR9705", "(TotL)  Tour Nord, Sous-sol (Prouver votre courage)"},      
-	{"AR9706", "(TotL)  Tour Nord, (Reine Harpie)"},                        
-	{"AR9707", "(TotL)  Tour Est, Sous-sol (Prouver votre persévérance)"},  
-	{"AR9708", "(TotL)  Tour Est, (Crieck de Baine)"},                      
-	{"AR9709", "(TotL)  Muraille Ouest"},                                   
-	{"AR9710", "(TotL)  Muraille Est"},                                     
-	{"AR9711", "(TotL)  Cour intérieure"},                                  
-	{"AR9712", "(TotL)  Cour supérieur"},                                   
-	{"AR9713", "(TotL)  Ruine du temple de Heaum"},                         
-	{"AR9714", "(TotL)  Tombe de la Sentinelle"},                           
-	{"AR9715", "(TotL)  Planque de Hobart Piévelu"},                        
-	{"AR9716", "(TotL)  Donjon L1"},                                        
-	{"AR9717", "(TotL)  Donjon L2"},                                        
-	{"AR9718", "(TotL)  Donjon L3"},                                        
-	{"AR9800", "(TotL)  Cavernes du Clan Chacal, L1"},                      
-	{"AR9801", "(TotL)  Cavernes du Clan Chacal, L2"}~                     
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+	{"AR9100", "(HoW)  Le Bois Isolé"},
+	{"AR9101", "(HoW)  Auberge du Gibet Siffleur, L1 (Le Bois Isolé)"},
+	{"AR9102", "(HoW)  Auberge du Gibet Siffleur, L2 (Le Bois Isolé)"},
+	{"AR9103", "(HoW)  Temple de Waukyne, (Le Bois Isolé)"},
+	{"AR9104", "(HoW)  Maison d'Emmerich, (Le Bois Isolé)"},
+	{"AR9105", "(HoW)  Maison de la famille Dunn, (Le Bois Isolé)"},
+	{"AR9106", "(HoW)  Maison des Thurlow, L1 (Le Bois Isolé)"},
+	{"AR9107", "(HoW)  Maison des Thurlow, L2 (Le Bois Isolé)"},
+	{"AR9108", "(HoW)  Maison de Dolan, (Le Bois Isolé)"},
+	{"AR9109", "(HoW)  Maison de Thom Farold, (Le Bois Isolé)"},
+	{"AR9110", "(HoW)  Maison de Purvis, (Le Bois Isolé)"},
+	{"AR9200", "(HoW)  Camp des barbares"},
+	{"AR9201", "(HoW)  Hall hydromel, (Camp des barbares)"},
+	{"AR9300", "(HoW)  Île aux tertres"},
+	{"AR9301", "(HoW)  Tour d'Édion, (Île aux tertres)"},
+	{"AR9400", "(HoW)  Tertres, (Île aux tertres)"},
+	{"AR9500", "(HoW)  Morneglace"},
+	{"AR9501", "(HoW)  Grotte de la Voyante, L1 Tiernon (Morneglace)"},
+	{"AR9502", "(HoW)  Grotte de la Voyante, L2 (Morneglace)"},
+	{"AR9600", "(HoW)  Mer des Glaces Mouvantes"},
+	{"AR9601", "(HoW)  Glacier, L1 (Mer des Glaces Mouvantes)"},
+	{"AR9602", "(HoW)  Champ des Ossements, L2 (Mer des Glaces Mouvantes)"},
+	{"AR9603", "(HoW)  Temple Sahuagins, L3 (Mer des Glaces Mouvantes)"},
+	{"AR9604", "(HoW)  Tanière d'Icasaracht, L4 (Mer des Glaces Mouvantes)"},
+	{"  ", "        TRIALS OF THE LUREMASTER        "},
+	{"AR9700", "(TotL)  Forteresse de Maluradek (Commencement)"},
+	{"AR9701", "(TotL)  Tour Sud, Sous-sol (Prouver votre sagacité)"},
+	{"AR9702", "(TotL)  Tour Sud, (Matrone Wiverne)"},
+	{"AR9703", "(TotL)  Tour Ouest, Sous-sol (Prouver votre vaillance)"},
+	{"AR9704", "(TotL)  Tour Ouest, (Harald)"},
+	{"AR9705", "(TotL)  Tour Nord, Sous-sol (Prouver votre courage)"},
+	{"AR9706", "(TotL)  Tour Nord, (Reine Harpie)"},
+	{"AR9707", "(TotL)  Tour Est, Sous-sol (Prouver votre persévérance)"},
+	{"AR9708", "(TotL)  Tour Est, (Crieck de Baine)"},
+	{"AR9709", "(TotL)  Muraille Ouest"},
+	{"AR9710", "(TotL)  Muraille Est"},
+	{"AR9711", "(TotL)  Cour intérieure"},
+	{"AR9712", "(TotL)  Cour supérieur"},
+	{"AR9713", "(TotL)  Ruine du temple de Heaum"},
+	{"AR9714", "(TotL)  Tombe de la Sentinelle"},
+	{"AR9715", "(TotL)  Planque de Hobart Piévelu"},
+	{"AR9716", "(TotL)  Donjon L1"},
+	{"AR9717", "(TotL)  Donjon L2"},
+	{"AR9718", "(TotL)  Donjon L3"},
+	{"AR9800", "(TotL)  Cavernes du Clan Chacal, L1"},
+	{"AR9801", "(TotL)  Cavernes du Clan Chacal, L2"}~

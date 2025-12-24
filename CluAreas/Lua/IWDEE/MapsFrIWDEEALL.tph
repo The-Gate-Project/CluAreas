@@ -130,10 +130,22 @@ ACTION_IF FILE_EXISTS_IN_GAME ~bgee.lua~ BEGIN
 	~{"AR8013",.*"},~                      => 3258
 	~{"AR8014",.*"},~                      => 3259
 	~{"AR8015",.*"},~                      => 3260
-	~{"AR8016",.*"},~                      => 3310
-	
-	// CheatsAreas pour Heart of Winter                                                                        // MapsFrIWDEE.tra
-	
+	~{"AR8016",.*"}~                       => 3310
+
+
+END
+
+    PATCH_PHP_EACH strings_IWDEE_ALL AS find => replace_ref BEGIN
+        SPRINT replace (AT replace_ref)
+        REPLACE_TEXTUALLY ~%find%~ ~%replace%~
+    END
+
+// Not really needed to separate IWDEE_ALL and IWDEE_HOW_ALL but it can be an exemple if other duplicate issues arise in the futur
+
+	// CheatsAreas pour Heart of Winter
+	// MapsFrIWDEE.tra
+
+	PATCH_DEFINE_ASSOCIATIVE_ARRAY strings_IWDEE_HOW_ALL BEGIN
 	~{"AR9100","Lonelywood"},~                      => REPLACE_CLUAHoW   
 	~{"AR9101",.*"},~                      => 3263
 	~{"AR9102",.*"},~                      => 3264
@@ -158,7 +170,7 @@ ACTION_IF FILE_EXISTS_IN_GAME ~bgee.lua~ BEGIN
 	~{"AR9602",.*"},~                      => 3283
 	~{"AR9603",.*"},~                      => 3284
 	~{"AR9604",.*"},~                      => 3285
-	~{"AR9700",.*"},~                      => REPLACE_CLUATotL
+	~{"AR9700","Anauroch Castle.*"},~                      => REPLACE_CLUATotL
 	~{"AR9701",.*"},~                      => 3287
 	~{"AR9702",.*"},~                      => 3288
 	~{"AR9703",.*"},~                      => 3289
@@ -178,13 +190,13 @@ ACTION_IF FILE_EXISTS_IN_GAME ~bgee.lua~ BEGIN
 	~{"AR9717",.*"},~                      => 3303
 	~{"AR9718",.*"},~                      => 3304
 	~{"AR9800",.*"},~                      => 3305
-	~{"AR9801",.*"},~                      => 3306
+	~{"AR9801",.*"}~                       => 3306
 
 
 
 END
 
-    PATCH_PHP_EACH strings_IWDEE_ALL AS find => replace_ref BEGIN
+    PATCH_PHP_EACH strings_IWDEE_HOW_ALL AS find => replace_ref BEGIN
         SPRINT replace (AT replace_ref)
         REPLACE_TEXTUALLY ~%find%~ ~%replace%~
     END

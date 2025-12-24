@@ -5,7 +5,7 @@
 [![Downloads](https://img.shields.io/github/downloads/The-Gate-Project/CluAreas/total?color=41788a)](https://github.com/The-Gate-Project/CluAreas/releases)
 
 [![Language](https://img.shields.io/badge/language-french%20%7C%20schinese-014a69)](https://github.com/The-Gate-Project/CluAreas/releases)
-[![Games](https://img.shields.io/badge/games-BGEE%20%a0%20BG2EE%20%a0%20EET-41788a)](https://github.com/The-Gate-Project/CluAreas/releases)
+[![Games](https://img.shields.io/badge/games-BGEE%20%a0%20BG2EE%20%a0%20EET%20%a0%20IWDEE-41788a)](https://github.com/The-Gate-Project/CluAreas/releases)
 
 <!--
 
